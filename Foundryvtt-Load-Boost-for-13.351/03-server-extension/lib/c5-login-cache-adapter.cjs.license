@@ -1,0 +1,8 @@
+SPDX-FileCopyrightText: 2026 Foundryvtt Load Boost for 13.351 contributors
+SPDX-License-Identifier: MIT
+
+Applies to the adjacent c5-login-cache-adapter.cjs. See ../../LICENSE-MIT, ../../LICENSE.md and ../../THIRD-PARTY-NOTICES.md.
+License: https://opensource.org/license/mit
+Retain the complete MIT copyright and permission notice with copies or substantial portions.
+Project-authored adapter; third-party runtime dependencies are not distributed or relicensed.
+适用于相邻C5适配器；不分发或重新许可其第三方运行依赖。

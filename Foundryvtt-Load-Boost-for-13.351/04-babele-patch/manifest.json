@@ -1,0 +1,37 @@
+{
+  "id": "babele-2.7.5-singleflight-sharing-v1",
+  "kind": "replacement-file-digests-not-a-Foundry-module-manifest",
+  "upstreamVersion": "2.7.5",
+  "upstreamSource": "https://gitlab.com/riccisi/foundryvtt-babele/-/tree/2.7.5",
+  "upstreamAuthor": "Simone Ricciardi",
+  "license": "CC-BY-4.0",
+  "modificationsBy": "Foundryvtt Load Boost for 13.351 contributors",
+  "modificationsLicense": "CC-BY-4.0",
+  "licenseNotice": "LICENSE.md",
+  "thirdPartyNotices": "../THIRD-PARTY-NOTICES.md",
+  "unofficialModification": true,
+  "historicalEnvironment": {
+    "foundry": "13.351",
+    "pf1": "11.11",
+    "libWrapper": "1.13.5.1"
+  },
+  "sharingRevisionRuntimeRetested": false,
+  "notes": {
+    "zh-CN": "分享文件只比历史候选新增归属注释，字节摘要不同；不是完整可安装模组，也未生产上线。",
+    "en": "Sharing files add attribution comments to the tested candidate, changing byte digests. Not a complete installable module; not deployed to original production."
+  },
+  "files": [
+    {
+      "path": "overlay/script/babele.js",
+      "originalSha256": "3727b7bb55d81fe63faf922aece7249457fb1cef8462b0cdfd581c7f620d096f",
+      "testedBeforeHeaderSha256": "9e7bc0e580005475d63f44ee74ed34dd76723f43e24f01bebede1002b3a87cd6",
+      "distributedSha256": "310ba67fce4fea99b19235940dc4b90d2f34025683eeeea16939a76f32e81fa2"
+    },
+    {
+      "path": "overlay/script/wrapper.js",
+      "originalSha256": "0c9a16e28aa08e9968ddd270ad4b5770295ab8266d3bf874ed54880cd0f69474",
+      "testedBeforeHeaderSha256": "af169141c6135a7e00d65e130ed02dd86892bc4db377c3c9043caa9b00eb1721",
+      "distributedSha256": "de898f9858dce762ba0b0154d851bec0ade8e33aedb0fda59a1d024225ea53f6"
+    }
+  ]
+}

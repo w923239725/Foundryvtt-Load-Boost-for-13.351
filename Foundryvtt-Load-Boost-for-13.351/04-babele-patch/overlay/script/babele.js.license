@@ -1,0 +1,11 @@
+SPDX-FileCopyrightText: Simone (Simone Ricciardi), Babele 2.7.5
+SPDX-FileCopyrightText: 2026 Foundryvtt Load Boost for 13.351 contributors (modifications)
+SPDX-License-Identifier: CC-BY-4.0
+
+Applies to the adjacent babele.js.
+Source: https://gitlab.com/riccisi/foundryvtt-babele/-/tree/2.7.5
+License: https://creativecommons.org/licenses/by/4.0/
+Notices: ../../../LICENSE, ../../../LICENSE.md, ../../../THIRD-PARTY-NOTICES.md and ../../LICENSE.md.
+Modification: instance-local single-flight initialization with completion/failure cleanup; attribution header.
+Unofficial modified version; no endorsement by the original author or Foundry.
+原作署名保留；本项目修改亦为CC BY 4.0。新增实例内并发初始化合并与归属注释，不表示官方背书。

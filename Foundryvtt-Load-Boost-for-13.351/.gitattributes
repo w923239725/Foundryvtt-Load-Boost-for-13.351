@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# Preserve digest-pinned JavaScript bytes, including historical line endings.
+# 保留有摘要约束的JavaScript字节，不自动转换历史换行。
+*.js -text
+*.cjs -text

@@ -1,0 +1,8 @@
+SPDX-FileCopyrightText: 2026 Foundryvtt Load Boost for 13.351 contributors
+SPDX-License-Identifier: MIT
+
+Applies to the adjacent c5-login-read-cache.cjs. See ../../LICENSE-MIT, ../../LICENSE.md and ../../THIRD-PARTY-NOTICES.md.
+License: https://opensource.org/license/mit
+Retain the complete MIT copyright and permission notice with copies or substantial portions.
+Project-authored cache; the source bytes remain unchanged from the previously tested implementation.
+适用于相邻C5缓存源码；仅补充许可通知，不改变已测源码字节。

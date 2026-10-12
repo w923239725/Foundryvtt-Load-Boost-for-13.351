@@ -1,0 +1,8 @@
+SPDX-FileCopyrightText: 2026 Foundryvtt Load Boost for 13.351 contributors
+SPDX-License-Identifier: MIT
+
+Applies to the adjacent c9-login-update-policy.cjs. See ../../LICENSE-MIT, ../../LICENSE.md and ../../THIRD-PARTY-NOTICES.md.
+License: https://opensource.org/license/mit
+Retain the complete MIT copyright and permission notice with copies or substantial portions.
+Project-authored policy integration; Foundry software remains separately licensed.
+适用于相邻C9策略集成；Foundry本体仍按其独立协议许可。

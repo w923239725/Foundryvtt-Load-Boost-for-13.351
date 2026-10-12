@@ -1,0 +1,8 @@
+SPDX-FileCopyrightText: 2026 Foundryvtt Load Boost for 13.351 contributors
+SPDX-License-Identifier: MIT
+
+Applies to the adjacent preload.cjs. See ../LICENSE-MIT, ../LICENSE.md and ../THIRD-PARTY-NOTICES.md.
+License: https://opensource.org/license/mit
+Retain the complete MIT copyright and permission notice with copies or substantial portions.
+Project-authored integration; third-party software is not relicensed.
+适用于相邻preload.cjs；保留项目署名及许可，不改变第三方软件权利。

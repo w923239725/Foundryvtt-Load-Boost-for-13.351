@@ -1,0 +1,17 @@
+# 不应被意外加入公开仓库的凭据、备份和运行残留。
+*.pem
+*.key
+*.pfx
+*.p12
+*.crt
+*.cer
+*.log
+*.bak
+*.backup
+.env
+.env.*
+backup/
+backups/
+private/
+dump.pm2*
+node_modules/

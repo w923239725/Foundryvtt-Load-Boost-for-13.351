@@ -1,0 +1,8 @@
+{
+  "enabled": false,
+  "applicationPath": "/opt/foundry/resources/app",
+  "dataPath": "/srv/foundry-data",
+  "port": 30000,
+  "disableLoginUpdateChecks": false,
+  "compendiumCacheMode": "off"
+}

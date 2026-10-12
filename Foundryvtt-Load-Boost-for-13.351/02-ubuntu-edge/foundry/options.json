@@ -1,0 +1,6 @@
+{
+  "hostname": "vtt.example.com",
+  "port": 30000,
+  "proxyPort": 443,
+  "proxySSL": true
+}

@@ -1,0 +1,22 @@
+{
+  "scope": "Anonymized historical observations, not tests of this newly packaged distribution",
+  "units": "milliseconds unless stated otherwise",
+  "notAdditive": true,
+  "c9ReadyMediansABA": [13136.9, 9960.3, 12800.5],
+  "c5ReadyMediansABA": [9876.7, 8688.2, 10186.4],
+  "c5ServerWarmMediansABA": [1730.04, 478.57, 1692.85],
+  "babeleFirstFrameMediansABA": [9678.4, 9171.6, 10331.4],
+  "babeleTranslationReadyMediansABA": [9336.45, 10575.75, 10072.15],
+  "edgeComparison": {
+    "initial": {"samples": 1, "pageLoad": 1715.1, "fcp": 10220, "worldReady": null, "controlledCache": false, "viewport": null},
+    "afterProxyAndEdgeFixes": {"samples": 3, "pageLoadMedian": 1229.4, "fcpMedian": 9668, "worldReadyMedian": 14136.3, "viewport": [978,838]},
+    "descriptiveDifferences": {"pageLoadLower": 485.7, "fcpLower": 552, "worldReadyDifference": null},
+    "notControlledNoCdnComparison": true
+  },
+  "limitations": [
+    "Initial measurements describe a poorly configured/ineffective edge path, not proof of no CDN.",
+    "No initial exact world-ready time exists.",
+    "Browser versions, viewports, cache states and snapshot ages differ across investigations.",
+    "No raw user data, domain, IP, scene ID, document ID, process ID or session timestamp is included."
+  ]
+}
